@@ -29,9 +29,9 @@ It is designed to help individuals and organizations recognize, avoid, and repor
 ---
 
 ## 🚀 How to Use
-1. Download the [PDF](./phishing_training.pdf) or [PPTX](./phishing_training.pptx).  
-2. Use it for awareness sessions, workshops, or self-learning.  
-3. Share with your team to promote cybersecurity best practices.  
+1. Download the [PDF](./phishing Awareness.pdf) or [PPTX](./phishing Awareness.pptx).  
+3. Use it for awareness sessions, workshops, or self-learning.  
+4. Share with your team to promote cybersecurity best practices.  
 
 ---
 
