@@ -21,9 +21,10 @@ It is designed to help individuals and organizations recognize, avoid, and repor
 
 ---
 
-## 📂 Available Formats
-- **PDF** – View directly in GitHub  
-- **PPTX** – Editable slides for presentations and workshops  
+📂 Files:
+- [Phishing Awareness Training (PDF)](./phishing_training.pdf) – View online
+- [Phishing Awareness Training (PPTX)](./phishing_training.pptx) – Download to edit/present
+  
 
 ---
 
