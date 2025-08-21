@@ -45,5 +45,3 @@ For suggestions or improvements, feel free to open an issue or submit a pull req
 
 
 
-Would you like me to also **add preview images of a few slides** in the README (so visitors see them immediately without opening the files)?
-
